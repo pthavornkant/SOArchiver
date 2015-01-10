@@ -1,0 +1,23 @@
+===========================================================================================================
+INSTALLATION
+===========================================================================================================
+1. To install, extract the files anywhere. It should work. They must all be in the same directory.
+
+2. The files that must be in the same directory are "SOArchiver [Beta]" (Executable JAR),
+ "SOArchiver" (database) and the "lib" (folder).
+
+3. The JAR file is the executable, and should work as long as it's in the same directory as the lib folder.
+===========================================================================================================
+USAGE
+===========================================================================================================
+LOGGING IN: You may use the public ID "Guest" and public password "0" to simply view the databases.
+
+As a Guest you cannot edit the databases in anyway, but you can sort the way you view them.
+
+As an Admin, you can insert new data and delete old data. Hover over any text and a tooltip will tell you
+how to work various parts of the program. Feel free to experiment with things as this is a beta build 
+designed to catch bugs, glitches and errors. Also go ahead and comment with suggestions for the program if
+you have any. 
+
+To login as an Admin, use the ID "Admin" and password "pentastic" and you'll be in.
+===========================================================================================================
